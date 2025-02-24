@@ -15961,7 +15961,7 @@
     {
         "src": "hunt",
         "trgs": [
-            "shikar khlaimani"
+            "rutukma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24966,7 +24966,7 @@
     {
         "src": "puberty",
         "trgs": [
-            "sikla wngmani"
+            "sikla sokmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25083,7 +25083,7 @@
     {
         "src": "push",
         "trgs": [
-            "dunmani"
+            "dagarmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25477,15 +25477,7 @@
         "tl": "trp",
         "is_source_orig": true
     },
-    {
-        "src": "re",
-        "trgs": [
-            "____phi"
-        ],
-        "sl": "en",
-        "tl": "trp",
-        "is_source_orig": true
-    },
+    
     {
         "src": "reach",
         "trgs": [
@@ -25562,7 +25554,7 @@
     {
         "src": "realize",
         "trgs": [
-            "buchumani"
+            "bujimani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25580,7 +25572,7 @@
     {
         "src": "really",
         "trgs": [
-            "Kubuisano"
+            "Kubui kubui"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25661,7 +25653,8 @@
     {
         "src": "recently",
         "trgs": [
-            "okhepo"
+            "okhep bo",
+            "waisa fru"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25715,7 +25708,7 @@
     {
         "src": "recommend",
         "trgs": [
-            "kokbiti rwman"
+            "kokbiti rwmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26013,7 +26006,7 @@
     {
         "src": "relative",
         "trgs": [
-            "jati kwlainarok"
+            "jati kwlainairok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26409,7 +26402,7 @@
     {
         "src": "resilient",
         "trgs": [
-            "resilient"
+            "soi wi tong mani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26604,15 +26597,7 @@
         "tl": "trp",
         "is_source_orig": true
     },
-    {
-        "src": "retention",
-        "trgs": [
-            "twi tonimani"
-        ],
-        "sl": "en",
-        "tl": "trp",
-        "is_source_orig": true
-    },
+    
     {
         "src": "retired",
         "trgs": [
@@ -26760,9 +26745,18 @@
         "is_source_orig": true
     },
     {
-        "src": "rice",
+        "src": "rice grains",
         "trgs": [
             "mairum"
+        ],
+        "sl": "en",
+        "tl": "trp",
+        "is_source_orig": true
+    },
+    {
+        "src": "cooked rice",
+        "trgs": [
+            "mai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27014,6 +27008,7 @@
     {
         "src": "rotten",
         "trgs": [
+            "Koshok",
             "shokjak"
         ],
         "sl": "en",
@@ -27023,7 +27018,7 @@
     {
         "src": "rough",
         "trgs": [
-            "thamchi kutung",
+            
             "milikya"
         ],
         "sl": "en",
@@ -27096,7 +27091,7 @@
     {
         "src": "rubbish",
         "trgs": [
-            "khibijaknai anwi"
+            "khibijaknai manwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27637,7 +27632,7 @@
     {
         "src": "scissors",
         "trgs": [
-            "kechi"
+            "kenchi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27646,7 +27641,7 @@
     {
         "src": "scold",
         "trgs": [
-            "jolijagwi hinmani"
+            "kutukmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27781,7 +27776,7 @@
     {
         "src": "secret",
         "trgs": [
-            "secret"
+            "Huijak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27954,7 +27949,7 @@
     {
         "src": "self healing",
         "trgs": [
-            "sak sak hamwi thangnai"
+            "sak sak hamwi thangmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28161,7 +28156,7 @@
     {
         "src": "set up",
         "trgs": [
-            "csongchamani"
+            "songchamani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28458,7 +28453,7 @@
     {
         "src": "shirt",
         "trgs": [
-            "shirt"
+            "Kamchului"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28467,7 +28462,7 @@
     {
         "src": "shoes",
         "trgs": [
-            "jutarok"
+            "juta"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28631,7 +28626,7 @@
     {
         "src": "shy",
         "trgs": [
-            "lachimani"
+            "lachijakmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28875,14 +28870,14 @@
     {
         "src": "Sir",
         "trgs": [
-            "borom gwnang"
+            "Sir"
         ],
         "sl": "en",
         "tl": "trp",
         "is_source_orig": true
     },
     {
-        "src": "sister",
+        "src": "older sister",
         "trgs": [
             "bai"
         ],
@@ -28891,9 +28886,19 @@
         "is_source_orig": true
     },
     {
-        "src": "sister in law",
+        "src": "older sister in law",
         "trgs": [
-            "Bachwi",
+            "Bachwi"
+            
+        ],
+        "sl": "en",
+        "tl": "trp",
+        "is_source_orig": true
+    },
+    {
+        "src": "younger sister in law",
+        "trgs": [
+            
             "Buprangjwk"
         ],
         "sl": "en",
@@ -29110,7 +29115,7 @@
     {
         "src": "slip",
         "trgs": [
-            "keplei kwlaimani"
+            "keple mani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29272,7 +29277,8 @@
     {
         "src": "so far",
         "trgs": [
-            "awsk hakchak"
+            "awsk hakchal",
+            "tabuk jora"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29344,7 +29350,7 @@
     {
         "src": "soft",
         "trgs": [
-            "romthok"
+            "norom"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29587,7 +29593,7 @@
     {
         "src": "soulmate",
         "trgs": [
-            "bwkhani borok"
+            "bwkha ni borok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29963,7 +29969,7 @@
         "is_source_orig": true
     },
     {
-        "src": "st",
+        "src": "Scheduled tribe",
         "trgs": [
             "janajati bosong"
         ],
@@ -29974,7 +29980,7 @@
     {
         "src": "stab",
         "trgs": [
-            "shugwi rwmani"
+            "shulwi rwmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30046,7 +30052,7 @@
     {
         "src": "stalk",
         "trgs": [
-            "khoroksa borok tamo tamo khlai abo tepkhe naimani"
+            "rwktharmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30055,7 +30061,8 @@
     {
         "src": "stall",
         "trgs": [
-            "phalnok"
+            "phalnok",
+            "kwchawi tong mani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30235,7 +30242,7 @@
     {
         "src": "steep",
         "trgs": [
-            "bachajak"
+            "theng theng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30298,7 +30305,7 @@
     {
         "src": "stingy",
         "trgs": [
-            "stingy"
+            "khaichor"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30424,7 +30431,7 @@
     {
         "src": "straight",
         "trgs": [
-            "lama botok"
+            "suja"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30605,7 +30612,8 @@
     {
         "src": "strong",
         "trgs": [
-            "phan gwnang"
+            "phan gwnang",
+            "kwrak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30714,7 +30722,8 @@
     {
         "src": "stupid",
         "trgs": [
-            "siya kukya borok"
+            "yamrok",
+            "sithaya"
         ],
         "sl": "en",
         "tl": "trp",

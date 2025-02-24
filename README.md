@@ -2,6 +2,16 @@
 
 The **Kokborok Digitalisation Project** is an initiative to curate and enhance parallel data for the Kokborok-English language pair. This project builds upon the SMOL dataset by Google, available on Hugging Face, and involves modifying and correcting it to better reflect the nuances of the local Kokborok dialect.
 
+## From the Author  
+
+> *"Language is a living, breathing entity—constantly evolving, shaping cultures, and connecting generations. When we digitally preserve and document it, we don’t just safeguard words; we ignite progress, making knowledge more accessible and enriching for all."*  
+
+— ***Dr. Sudhamoy Debbarma***  
+
+
+ 
+
+
 ## Overview
 
 - **Objective:** To collect, modify, and enhance data from various sources to create a high-quality, parallel dataset for the Kokborok-English language pair.

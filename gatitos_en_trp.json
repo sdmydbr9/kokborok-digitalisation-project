@@ -249,7 +249,8 @@
     {
         "src": "accomplished",
         "trgs": [
-            "accomplished"
+            "suargnang",
+            "kwrwng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4773,6 +4774,7 @@
         "src": "casual",
         "trgs": [
             "haino tongma"
+            
         ],
         "sl": "en",
         "tl": "trp",
@@ -6550,7 +6552,8 @@
     {
         "src": "consistent",
         "trgs": [
-            "consistent"
+            "ninangya",
+            "slaijakya"
         ],
         "sl": "en",
         "tl": "trp",
@@ -9734,6 +9737,15 @@
         "is_source_orig": true
     },
     {
+        "src": "therapy",
+        "trgs": [
+            "hamya naijakmung"
+        ],
+        "sl": "en",
+        "tl": "trp",
+        "is_source_orig": true
+    },
+    {
         "src": "eager",
         "trgs": [
             "kha thonjak"
@@ -11219,8 +11231,8 @@
     {
         "src": "experience",
         "trgs": [
-            "manjakphaimani gyan",
-            "nugwiphaimani gyan"
+            "rwngmari"
+            
         ],
         "sl": "en",
         "tl": "trp",
@@ -11301,7 +11313,9 @@
     {
         "src": "expose",
         "trgs": [
-            "phataro"
+            "phataro",
+            "sijakma",
+            "nukjakma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11347,7 +11361,7 @@
     {
         "src": "extend",
         "trgs": [
-            "phuwarmung"
+            "pholokma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11356,7 +11370,7 @@
     {
         "src": "extended",
         "trgs": [
-            "phuwarjak"
+            "pholokjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12551,7 +12565,7 @@
     {
         "src": "floor",
         "trgs": [
-            "paka"
+            "thongor"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18806,7 +18820,7 @@
     {
         "src": "legacy",
         "trgs": [
-            "yaphar kwlangjak nukhung"
+            "yaphar kwlangjak(n)"
         ],
         "sl": "en",
         "tl": "trp",
@@ -19602,7 +19616,7 @@
     {
         "src": "main",
         "trgs": [
-            "kotor"
+            "nangkukmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24251,7 +24265,8 @@
     {
         "src": "precious",
         "trgs": [
-            "belaino nangkukmani manwi"
+            "morokuk",
+            "kahamkuk"
         ],
         "sl": "en",
         "tl": "trp",
@@ -31114,7 +31129,9 @@
     {
         "src": "surface",
         "trgs": [
-            "tola"
+            "saka",
+            "bukur",
+            "songphang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -33195,7 +33212,7 @@
     {
         "src": "trigger",
         "trgs": [
-            "silai o sebkhakheno guli kogjakmani"
+            "khili"
         ],
         "sl": "en",
         "tl": "trp",

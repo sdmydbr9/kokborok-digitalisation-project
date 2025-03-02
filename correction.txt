@@ -1,12 +1,4 @@
-casual
-purple
-negative
-trigger
-afternoon
-hip
-surface
-consistent
-sea
+
 shelter
 executive
 entertainment
@@ -38,7 +30,6 @@ accent
 access
 accident
 accomodation
-accomplished
 according
 aquisition
 act
@@ -352,3 +343,14 @@ structure
 struggling
 stubborn
 stunning
+uncle
+aunty
+risa
+rignai
+pant
+turban
+bulk
+fathom
+elbow
+medicine
+astronomy

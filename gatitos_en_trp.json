@@ -141,7 +141,8 @@
     {
         "src": "absorb",
         "trgs": [
-            "bisingo kusubuisio"
+            "kusupma"
+          
         ],
         "sl": "en",
         "tl": "trp",
@@ -150,7 +151,8 @@
     {
         "src": "abstract",
         "trgs": [
-            "abstract"
+            "uansukmung ni",
+            "kókbwkrai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -168,7 +170,7 @@
     {
         "src": "abundance",
         "trgs": [
-            "khurumpui"
+            "bangmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -195,7 +197,7 @@
     {
         "src": "accent",
         "trgs": [
-            "kok samani goron"
+            "kóksamung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -231,7 +233,8 @@
     {
         "src": "accommodation",
         "trgs": [
-            "tongjaknai thiti khlaimani"
+            "tongjaknai thiti khlaimani",
+            "tongthai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -259,7 +262,7 @@
     {
         "src": "according",
         "trgs": [
-            "hainohai"
+            "samatwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -385,7 +388,9 @@
     {
         "src": "act",
         "trgs": [
-            "toke mwsamani"
+            "toke mwsamani",
+            "phunuksama",
+            "wngtrwngma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -394,7 +399,7 @@
     {
         "src": "action",
         "trgs": [
-            "yapri"
+            "tangmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -520,7 +525,8 @@
     {
         "src": "adequate",
         "trgs": [
-            "kulokmani"
+            "kulokmani",
+            "nangmaswk"
         ],
         "sl": "en",
         "tl": "trp",
@@ -556,7 +562,8 @@
     {
         "src": "admire",
         "trgs": [
-            "naithokjakmani"
+            "naithokjakmani",
+            "bórom rwma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -565,7 +572,9 @@
     {
         "src": "admit",
         "trgs": [
-            "damani"
+            "damani",
+            "gosima",
+            "haprwma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -574,7 +583,8 @@
     {
         "src": "adopt",
         "trgs": [
-            "dottok naharmani"
+            "dottok naharmani",
+            "samung thepama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -655,7 +665,7 @@
     {
         "src": "advice",
         "trgs": [
-            "dagimung"
+            "kókbiti"
         ],
         "sl": "en",
         "tl": "trp",
@@ -664,7 +674,7 @@
     {
         "src": "advise",
         "trgs": [
-            "kokbiti"
+            "kokbiti rwma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -718,7 +728,7 @@
     {
         "src": "afford",
         "trgs": [
-            "rang kwrwini bagwi mungsaswk paimaya wngmani"
+            "paimanma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -727,7 +737,7 @@
     {
         "src": "affordable",
         "trgs": [
-            "pai manthokmani"
+            "pai manmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -799,7 +809,8 @@
     {
         "src": "agency",
         "trgs": [
-            "khajak kaisa motha eba baniya"
+            
+            "bodol"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1096,7 +1107,7 @@
     {
         "src": "amazing",
         "trgs": [
-            "Belai naithok"
+            "uanamasingsa"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1105,7 +1116,8 @@
     {
         "src": "ambiguous",
         "trgs": [
-            "thiti wngjakya"
+            "srai srai wngya",
+            "miri miri"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1123,7 +1135,7 @@
     {
         "src": "ambitious",
         "trgs": [
-            "ambitious"
+            "naharmagnang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1168,7 +1180,7 @@
     {
         "src": "amount",
         "trgs": [
-            "swk"
+            "bángmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1484,7 +1496,8 @@
     {
         "src": "apparent",
         "trgs": [
-            "dadak-sidak"
+            "dadak-sidak",
+            "srai srai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1493,7 +1506,7 @@
     {
         "src": "apparently",
         "trgs": [
-            "tumung no"
+            "simajoratwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1565,7 +1578,7 @@
     {
         "src": "apply",
         "trgs": [
-            "koimani"
+            "thepama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1610,7 +1623,7 @@
     {
         "src": "appropriate",
         "trgs": [
-            "kwkwrwk"
+            "gothokjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1646,7 +1659,7 @@
     {
         "src": "approximately",
         "trgs": [
-            "andaj khlaimani"
+            "wngtwtwi khlaiwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1826,7 +1839,8 @@
     {
         "src": "arrange",
         "trgs": [
-            "manjumani"
+            "luajima",
+            "chapma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1835,7 +1849,7 @@
     {
         "src": "arrangement",
         "trgs": [
-            "tiyari khlaimani"
+            "tiyar khlaimani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1880,7 +1894,7 @@
     {
         "src": "arrow",
         "trgs": [
-            "teer"
+            "chakhla"
         ],
         "sl": "en",
         "tl": "trp",
@@ -1916,7 +1930,7 @@
     {
         "src": "artist",
         "trgs": [
-            "akinakwrwg"
+            "snamkwrwng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2033,7 +2047,7 @@
     {
         "src": "assault",
         "trgs": [
-            "assault"
+            "swprakma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2078,7 +2092,7 @@
     {
         "src": "asset",
         "trgs": [
-            "asset"
+            "rwbai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2087,7 +2101,7 @@
     {
         "src": "assets",
         "trgs": [
-            "assets"
+            "rwbairok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2123,7 +2137,7 @@
     {
         "src": "assistant",
         "trgs": [
-            "assistant"
+            "yakchu"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2240,7 +2254,7 @@
     {
         "src": "attack",
         "trgs": [
-            "hamla khlaijakmani"
+            "choprokmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2321,7 +2335,7 @@
     {
         "src": "attribute",
         "trgs": [
-            "goon"
+            "chongma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2387,7 +2401,7 @@
     {
         "src": "authority",
         "trgs": [
-            "bubagra"
+            "ojama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2558,7 +2572,7 @@
     {
         "src": "bag",
         "trgs": [
-            "bag"
+            "sola"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2777,7 +2791,7 @@
     {
         "src": "bastard",
         "trgs": [
-            "borok hamya"
+            "themrang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -2849,7 +2863,7 @@
     {
         "src": "be careful",
         "trgs": [
-            "be careful"
+            "hus wngdi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -3120,7 +3134,7 @@
     {
         "src": "belief",
         "trgs": [
-            "poito chamani"
+            "kháchongmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -3345,7 +3359,7 @@
     {
         "src": "bid",
         "trgs": [
-            "swk chongmani",
+            "bokma",
             "ringhormani"
         ],
         "sl": "en",
@@ -3499,7 +3513,8 @@
     {
         "src": "blend",
         "trgs": [
-            "mishimani"
+            "sapulma",
+            "gwdalma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -3535,7 +3550,7 @@
     {
         "src": "bliss",
         "trgs": [
-            "hamari"
+            "tongthoksukmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -3760,7 +3775,7 @@
     {
         "src": "boss",
         "trgs": [
-            "bubagra"
+            "dagiphang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4356,7 +4371,8 @@
     {
         "src": "bust",
         "trgs": [
-            "abuk"
+            "khákwlap",
+            "romjakmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4383,7 +4399,7 @@
     {
         "src": "butter",
         "trgs": [
-            "makhon"
+            "bothna"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4536,7 +4552,7 @@
     {
         "src": "campaign",
         "trgs": [
-            "shibir"
+            "choba"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4599,7 +4615,7 @@
     {
         "src": "capital",
         "trgs": [
-            "auli amchai"
+            "bugrakhor"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4665,7 +4681,7 @@
     {
         "src": "careless",
         "trgs": [
-            "careless"
+            "jai kwrwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4847,7 +4863,7 @@
     {
         "src": "cautious",
         "trgs": [
-            "cautious"
+            "husgwnang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4856,7 +4872,7 @@
     {
         "src": "cave",
         "trgs": [
-            "guha"
+            "hagurung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4874,7 +4890,7 @@
     {
         "src": "ceiling",
         "trgs": [
-            "nukhung saka"
+            "noksingkhúng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4892,7 +4908,7 @@
     {
         "src": "cell",
         "trgs": [
-            "kush"
+            "along"
         ],
         "sl": "en",
         "tl": "trp",
@@ -4901,7 +4917,8 @@
     {
         "src": "center",
         "trgs": [
-            "kendra"
+            "bokhri",
+            "kitingma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5009,7 +5026,7 @@
     {
         "src": "chaos",
         "trgs": [
-            "chaos"
+            "urumuru"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5018,7 +5035,8 @@
     {
         "src": "character",
         "trgs": [
-            "goron"
+            "goron",
+            "tongbidal"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5045,7 +5063,7 @@
     {
         "src": "charity",
         "trgs": [
-            "charity"
+            "chubamung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5261,7 +5279,8 @@
     {
         "src": "chill",
         "trgs": [
-            "kha tongthogwi tongma"
+            
+            "telekarmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5279,7 +5298,7 @@
     {
         "src": "chin",
         "trgs": [
-            "khosai"
+            "kholai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5396,7 +5415,7 @@
     {
         "src": "claim",
         "trgs": [
-            "dabi khlaimani"
+            "sakhlaima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5432,7 +5451,7 @@
     {
         "src": "clean",
         "trgs": [
-            "kwsap"
+            "sraisrai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5441,7 +5460,7 @@
     {
         "src": "clear",
         "trgs": [
-            "kwsap"
+            "kwchẃng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5576,7 +5595,7 @@
     {
         "src": "clown",
         "trgs": [
-            "joker"
+            "mwlang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5658,7 +5677,7 @@
     {
         "src": "cognitive",
         "trgs": [
-            "gyan rwkjak"
+            "saimanmani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5901,7 +5920,7 @@
     {
         "src": "commission",
         "trgs": [
-            "commission"
+            "dagimung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -5946,7 +5965,8 @@
     {
         "src": "common",
         "trgs": [
-            "tong kosong"
+            "tong kosong",
+            "manthokphlainai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -6244,7 +6264,8 @@
     {
         "src": "concentrate",
         "trgs": [
-            "concentrate"
+            "kaichomma",
+            "thumsa khlaima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -7214,7 +7235,7 @@
     {
         "src": "credit",
         "trgs": [
-            "credit"
+            "lakai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -7223,7 +7244,8 @@
     {
         "src": "creep",
         "trgs": [
-            "creep"
+            "makhukma",
+            "beser-beser erma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -7304,7 +7326,9 @@
     {
         "src": "crop",
         "trgs": [
-            "muikwthwngrok"
+            "muikwthwngrok",
+            "rama",
+            "maikhul"
         ],
         "sl": "en",
         "tl": "trp",
@@ -7313,7 +7337,9 @@
     {
         "src": "crops",
         "trgs": [
-            "kaijak buphangrok"
+            "kaijak buphangrok",
+            "maikhulrok"
+          
         ],
         "sl": "en",
         "tl": "trp",
@@ -7484,7 +7510,7 @@
     {
         "src": "curfew",
         "trgs": [
-            "curfew"
+            "kasumung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -7907,7 +7933,7 @@
     {
         "src": "debate",
         "trgs": [
-            "debate"
+            "tokra rwlaimani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8024,8 +8050,8 @@
     {
         "src": "deck",
         "trgs": [
-            "Rung kotorni paka",
-            "sajokmani"
+            "Rung kotorni paka"
+        
         ],
         "sl": "en",
         "tl": "trp",
@@ -8043,7 +8069,9 @@
     {
         "src": "decrease",
         "trgs": [
-            "kisai thangmani"
+            "kisai thangmani",
+            "chikonma",
+            "khaima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8061,7 +8089,7 @@
     {
         "src": "dedication",
         "trgs": [
-            "dedication"
+            "saktharmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8124,7 +8152,8 @@
     {
         "src": "define",
         "trgs": [
-            "define"
+            "sukhrubwi sama",
+            "ari khama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8133,7 +8162,7 @@
     {
         "src": "definitely",
         "trgs": [
-            "Ao khlainaino"
+            "kubuino"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8142,7 +8171,7 @@
     {
         "src": "definition",
         "trgs": [
-            "soi mane"
+            "kókbwrwng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8151,7 +8180,7 @@
     {
         "src": "degree",
         "trgs": [
-            "college o pori pass wngmani"
+            "berem"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8358,7 +8387,8 @@
     {
         "src": "depend",
         "trgs": [
-            "shungjak"
+            "shungjak",
+            "poito berthokma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8530,7 +8560,8 @@
     {
         "src": "destiny",
         "trgs": [
-            "malaithai"
+            "wngthai",
+            "talikha"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8557,7 +8588,7 @@
     {
         "src": "detail",
         "trgs": [
-            "sukrubui"
+            "kókbubak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8566,7 +8597,7 @@
     {
         "src": "details",
         "trgs": [
-            "details"
+            "kókbubakrok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8593,7 +8624,7 @@
     {
         "src": "determine",
         "trgs": [
-            "kha chongwi najak"
+            "kha chong mani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8602,7 +8633,7 @@
     {
         "src": "determined",
         "trgs": [
-            "Kha chabjak"
+            "Kha chongui najak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8866,7 +8897,8 @@
     {
         "src": "disable",
         "trgs": [
-            "disable"
+            "derarwma",
+            "mwthakma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -8875,7 +8907,8 @@
     {
         "src": "disabled",
         "trgs": [
-            "disabled"
+            "rodi klaijak"
+          
         ],
         "sl": "en",
         "tl": "trp",
@@ -9257,7 +9290,7 @@
     {
         "src": "document",
         "trgs": [
-            "proman bwlairok"
+            "kókbwkang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -10046,7 +10079,7 @@
     {
         "src": "elbow",
         "trgs": [
-            "kunee"
+            "yaksku"
         ],
         "sl": "en",
         "tl": "trp",
@@ -10633,7 +10666,7 @@
     {
         "src": "escape",
         "trgs": [
-            "kharmung"
+            "khárma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -10859,8 +10892,8 @@
     {
         "src": "evidence",
         "trgs": [
-            "mokol baithang nuknai",
-            "proman tongma"
+            "wngmari phunukma",
+            "kókmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -10869,7 +10902,8 @@
     {
         "src": "evil",
         "trgs": [
-            "chaya"
+            "chaya",
+            "themrang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -10887,7 +10921,7 @@
     {
         "src": "evolve",
         "trgs": [
-            "tesa tormani"
+            "hamsarwrwkma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11023,7 +11057,7 @@
     {
         "src": "excited",
         "trgs": [
-            "kha tongthokjak"
+            "tongthoksukjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11095,7 +11129,8 @@
     {
         "src": "executive",
         "trgs": [
-            "executive"
+            "tangphang",
+            "tangnai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11605,7 +11640,7 @@
     {
         "src": "faint",
         "trgs": [
-            "lengmani"
+            "khorok mihimui kwlai mani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11687,7 +11722,7 @@
     {
         "src": "fame",
         "trgs": [
-            "Borom"
+            "sinijakmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11714,7 +11749,7 @@
     {
         "src": "famine",
         "trgs": [
-            "machaya manungya"
+            "chathai biyal"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11741,7 +11776,8 @@
     {
         "src": "fancy",
         "trgs": [
-            "wansukmungo chajakmani"
+            "naithotok",
+            "mokol tháima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11777,7 +11813,7 @@
     {
         "src": "farm",
         "trgs": [
-            "kheto"
+            "bari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -11804,7 +11840,8 @@
     {
         "src": "fashion",
         "trgs": [
-            "fashion"
+            "kanchum",
+            "tongdal"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12128,6 +12165,7 @@
     {
         "src": "fiction",
         "trgs": [
+            "kereng kothoma",
             "chengra"
         ],
         "sl": "en",
@@ -12538,7 +12576,8 @@
     {
         "src": "flirting",
         "trgs": [
-            "kara thwngmani"
+            "kara thwngmani",
+            "chánaimani"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12574,7 +12613,7 @@
     {
         "src": "flour",
         "trgs": [
-            "ata"
+            "auankwsap"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12826,7 +12865,7 @@
     {
         "src": "forecast",
         "trgs": [
-            "forecast"
+            "saimanma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12934,7 +12973,8 @@
     {
         "src": "fortunately",
         "trgs": [
-            "Kwpal kaham"
+            "Kwpal kaham",
+            "talikha kaham"
         ],
         "sl": "en",
         "tl": "trp",
@@ -12943,7 +12983,8 @@
     {
         "src": "fortune",
         "trgs": [
-            "kwpal kaham"
+            "talikha",
+            "kwpal"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13087,7 +13128,9 @@
     {
         "src": "free",
         "trgs": [
-            "samung kwrwi"
+            "samung kwrwi",
+            "phiyókma",
+            "magnangno"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13332,7 +13375,8 @@
     {
         "src": "funeral",
         "trgs": [
-            "shradho"
+            "kwthwi phopmung",
+            "kwthwi sókmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13431,7 +13475,7 @@
     {
         "src": "garage",
         "trgs": [
-            "garage"
+            "malkhungnok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13449,7 +13493,7 @@
     {
         "src": "garden",
         "trgs": [
-            "bagan"
+            "bari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13521,7 +13565,7 @@
     {
         "src": "gender",
         "trgs": [
-            "shir"
+            "sirbidal"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13629,7 +13673,7 @@
     {
         "src": "get dressed",
         "trgs": [
-            "kaham richum chumma"
+            "ri chum d"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13683,7 +13727,7 @@
     {
         "src": "giant",
         "trgs": [
-            "danob"
+            "kotorma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -13692,7 +13736,8 @@
     {
         "src": "gift",
         "trgs": [
-            "yakpai"
+            "yakpai",
+            "yapharmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -14192,7 +14237,8 @@
     {
         "src": "grab",
         "trgs": [
-            "grab"
+            "romchrepma",
+            "sekma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -14611,7 +14657,8 @@
     {
         "src": "had",
         "trgs": [
-            "chakha"
+            "chakha",
+            "wngkha"
         ],
         "sl": "en",
         "tl": "trp",
@@ -14918,7 +14965,8 @@
     {
         "src": "hazard",
         "trgs": [
-            "hazard"
+            "dosa",
+            "bejua"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15099,7 +15147,7 @@
     {
         "src": "heist",
         "trgs": [
-            "heist"
+            "sekpromung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15208,7 +15256,7 @@
     {
         "src": "herd",
         "trgs": [
-            "malmata bodol"
+            "buthup khe thángma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15325,7 +15373,8 @@
     {
         "src": "hike",
         "trgs": [
-            "Rangmari barima"
+            "Rangmari barima",
+            "himgurungmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15334,7 +15383,7 @@
     {
         "src": "hiking",
         "trgs": [
-            "hiking"
+            "himgurungwi tongo"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15370,7 +15419,7 @@
     {
         "src": "hint",
         "trgs": [
-            "maar manmani"
+            "kokhurma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15569,7 +15618,7 @@
     {
         "src": "hook",
         "trgs": [
-            "hook"
+            "bosoi biching"
         ],
         "sl": "en",
         "tl": "trp",
@@ -15975,7 +16024,7 @@
     {
         "src": "hunt",
         "trgs": [
-            "rutukma"
+            "muikokma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16538,7 +16587,7 @@
     {
         "src": "ideal",
         "trgs": [
-            "ideal"
+            "khakajak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16754,7 +16803,7 @@
     {
         "src": "impress",
         "trgs": [
-            "impress"
+            "khánasama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16763,7 +16812,7 @@
     {
         "src": "impression",
         "trgs": [
-            "mari"
+            "khákamung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16853,7 +16902,7 @@
     {
         "src": "incentive",
         "trgs": [
-            "incentive"
+            "khá bacha rwmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16889,7 +16938,7 @@
     {
         "src": "income",
         "trgs": [
-            "ajimung"
+            "dormai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16943,7 +16992,7 @@
     {
         "src": "independent",
         "trgs": [
-            "yokmung manjak"
+            "yokjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -16997,7 +17046,7 @@
     {
         "src": "inevitable",
         "trgs": [
-            "je kwpalo wngna tongmani"
+            "kati manya"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17051,7 +17100,7 @@
     {
         "src": "influence",
         "trgs": [
-            "logi"
+            "kobolmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17078,7 +17127,8 @@
     {
         "src": "ingredients",
         "trgs": [
-            "ingredients"
+            "bwrwngrok",
+            "bokochorok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17133,7 +17183,7 @@
     {
         "src": "innocent",
         "trgs": [
-            "khairokmasingsa"
+            "majra kwrwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17214,7 +17264,7 @@
     {
         "src": "insist",
         "trgs": [
-            "jid khlaimani"
+            "dagima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17232,7 +17282,7 @@
     {
         "src": "inspiration",
         "trgs": [
-            "inspiration"
+            "khábacharwmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17565,7 +17615,10 @@
     {
         "src": "introduction",
         "trgs": [
-            "shinilaimani"
+            "shinilaimani",
+            "chengsamung",
+            "tubumung",
+            "kokswkang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -17862,7 +17915,7 @@
     {
         "src": "jaw",
         "trgs": [
-            "kholai"
+            "chenglai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18178,7 +18231,8 @@
     {
         "src": "kind",
         "trgs": [
-            "dal"
+            "bidal",
+            " khairokmagnang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18287,7 +18341,7 @@
     {
         "src": "knight",
         "trgs": [
-            "Kaham"
+            "sengkrakkaham"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18350,7 +18404,7 @@
     {
         "src": "label",
         "trgs": [
-            "sinilaih"
+            "sinimari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18413,7 +18467,7 @@
     {
         "src": "lake",
         "trgs": [
-            "twithu"
+            "twikuar"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18449,7 +18503,7 @@
     {
         "src": "land",
         "trgs": [
-            "hathai"
+            "ha"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18630,7 +18684,7 @@
     {
         "src": "lawyer",
         "trgs": [
-            "advocate"
+            "kerongsiyan"
         ],
         "sl": "en",
         "tl": "trp",
@@ -18838,7 +18892,7 @@
     {
         "src": "legend",
         "trgs": [
-            "legend"
+            "sinijakkuk"
         ],
         "sl": "en",
         "tl": "trp",
@@ -19227,7 +19281,7 @@
     {
         "src": "loaf",
         "trgs": [
-            "budul kolok"
+            "auangdul"
         ],
         "sl": "en",
         "tl": "trp",
@@ -19435,7 +19489,8 @@
     {
         "src": "low",
         "trgs": [
-            "kisajak"
+            "tola",
+            "bangthaya"
         ],
         "sl": "en",
         "tl": "trp",
@@ -19761,7 +19816,7 @@
     {
         "src": "manipulate",
         "trgs": [
-            "manipulate"
+            "bandima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -19996,7 +20051,8 @@
     {
         "src": "meaning",
         "trgs": [
-            "mane"
+            "kókbwrwng"
+            
         ],
         "sl": "en",
         "tl": "trp",
@@ -20402,7 +20458,7 @@
     {
         "src": "minutes",
         "trgs": [
-            "soti"
+            "sotirok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -20465,7 +20521,8 @@
     {
         "src": "miss",
         "trgs": [
-            "khatangmani"
+            "khatangmani",
+            "bwrwi sikla"
         ],
         "sl": "en",
         "tl": "trp",
@@ -20627,7 +20684,7 @@
     {
         "src": "moment",
         "trgs": [
-            "philiksa"
+            "mukphliksa"
         ],
         "sl": "en",
         "tl": "trp",
@@ -20744,7 +20801,7 @@
     {
         "src": "mortgage",
         "trgs": [
-            "bondhok tonimani"
+            "lakai berma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -20891,7 +20948,8 @@
     {
         "src": "muscle",
         "trgs": [
-            "Hankora"
+            "bahan",
+            "phan"
         ],
         "sl": "en",
         "tl": "trp",
@@ -21324,7 +21382,7 @@
     {
         "src": "net",
         "trgs": [
-            "gunda"
+            "twichekai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -21784,7 +21842,8 @@
     {
         "src": "numb",
         "trgs": [
-            "mungsaphano wngya wngma"
+            "borsajak",
+            "mlang chajak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -21793,7 +21852,9 @@
     {
         "src": "number",
         "trgs": [
-            "number"
+            "number",
+            "lekhamari",
+            "berem"
         ],
         "sl": "en",
         "tl": "trp",
@@ -21811,7 +21872,7 @@
     {
         "src": "nut",
         "trgs": [
-            "badal"
+            "tháichlwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -22880,7 +22941,7 @@
     {
         "src": "paper",
         "trgs": [
-            "lai"
+            "swi blai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23016,7 +23077,8 @@
     {
         "src": "pass",
         "trgs": [
-            "kubuni borokno yaphrw rwma"
+            "yapharjakma",
+            "láima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23052,7 +23114,7 @@
     {
         "src": "passionate",
         "trgs": [
-            "passionate"
+            "khásrangjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23061,7 +23123,8 @@
     {
         "src": "passive",
         "trgs": [
-            "passive"
+            "koinene",
+            "kotoi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23178,7 +23241,7 @@
     {
         "src": "peace",
         "trgs": [
-            "tongkwchang tongmung"
+            "khakchangmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23214,7 +23277,7 @@
     {
         "src": "pear",
         "trgs": [
-            "goyam"
+            "naspati"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23495,7 +23558,8 @@
     {
         "src": "phase",
         "trgs": [
-            "theka"
+            "theka",
+            "mol"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23684,7 +23748,8 @@
     {
         "src": "pitch",
         "trgs": [
-            "khitarma"
+            "chiringmung",
+            "khitarmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23729,7 +23794,8 @@
     {
         "src": "plain",
         "trgs": [
-            "hamil thai"
+            "hamil thai",
+            "jabralwng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -23900,7 +23966,7 @@
     {
         "src": "plural",
         "trgs": [
-            "kaisani kwbang"
+            "kwbangma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24064,7 +24130,7 @@
     {
         "src": "porridge",
         "trgs": [
-            "payesh hai songmani"
+            "porridge"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24293,7 +24359,7 @@
     {
         "src": "predict",
         "trgs": [
-            "predict"
+            "swkang nukhorma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24330,7 +24396,7 @@
     {
         "src": "prejudice",
         "trgs": [
-            "prejudice"
+            "bumukhang naiwi sedermung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24357,7 +24423,7 @@
     {
         "src": "preparation",
         "trgs": [
-            "tiyari"
+            "luajimung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24384,7 +24450,7 @@
     {
         "src": "preposition",
         "trgs": [
-            "preposition"
+            "kokthaiswkang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24492,7 +24558,7 @@
     {
         "src": "prey",
         "trgs": [
-            "shikar"
+            "mui"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24501,7 +24567,7 @@
     {
         "src": "price",
         "trgs": [
-            "swk"
+            "rangmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24510,7 +24576,7 @@
     {
         "src": "pride",
         "trgs": [
-            "kung chungmani kok"
+            "kungchukmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24546,7 +24612,7 @@
     {
         "src": "princess",
         "trgs": [
-            "rajkumari"
+            "bugrasajwk"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24673,7 +24739,7 @@
     {
         "src": "produce",
         "trgs": [
-            "produce"
+            "snamma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24682,7 +24748,7 @@
     {
         "src": "product",
         "trgs": [
-            "product"
+            "swnamjak"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24727,7 +24793,7 @@
     {
         "src": "profit",
         "trgs": [
-            "labh"
+            "manmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24836,7 +24902,7 @@
     {
         "src": "proof",
         "trgs": [
-            "proman"
+            "nukmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24863,7 +24929,7 @@
     {
         "src": "properties",
         "trgs": [
-            "goron"
+            "manwi-khwnwirok"
         ],
         "sl": "en",
         "tl": "trp",
@@ -24881,7 +24947,10 @@
     {
         "src": "proposal",
         "trgs": [
-            "kok swngmani"
+            "kok swngmani",
+            "kobokmung",
+            "bedekmung"
+            
         ],
         "sl": "en",
         "tl": "trp",
@@ -25080,7 +25149,7 @@
     {
         "src": "pursue",
         "trgs": [
-            "koimani"
+            "rwktharma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25134,7 +25203,7 @@
     {
         "src": "quantity",
         "trgs": [
-            "bangmani eba kisamani"
+            "bángmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25179,7 +25248,7 @@
     {
         "src": "queen",
         "trgs": [
-            "isri"
+            "isiri"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25432,7 +25501,8 @@
     {
         "src": "rash",
         "trgs": [
-            "rash"
+            "dophra-káphra",
+            "bothrai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25468,7 +25538,7 @@
     {
         "src": "ratio",
         "trgs": [
-            "ratio"
+            "thwkmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25605,7 +25675,7 @@
     {
         "src": "reason",
         "trgs": [
-            "mungsaswk wngmani ungklugo tongmani kok"
+            "uansukmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25822,7 +25892,8 @@
     {
         "src": "refer",
         "trgs": [
-            "refer"
+            "yasikaima",
+            "phunukhórma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25903,7 +25974,7 @@
     {
         "src": "regard",
         "trgs": [
-            "regard"
+            "khakama"
         ],
         "sl": "en",
         "tl": "trp",
@@ -25912,7 +25983,8 @@
     {
         "src": "regarding",
         "trgs": [
-            "no tui"
+            "no tui",
+            "khachongui tongma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26444,7 +26516,7 @@
     {
         "src": "resolution",
         "trgs": [
-            "baithang kok chabmung"
+            "kókchongmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26489,7 +26561,7 @@
     {
         "src": "respond",
         "trgs": [
-            "respond"
+            "khunju kanma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26552,7 +26624,7 @@
     {
         "src": "restore",
         "trgs": [
-            "restore"
+            "snamphima"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26670,7 +26742,7 @@
     {
         "src": "revenge",
         "trgs": [
-            "sejagwi"
+            "yagul sumung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26726,7 +26798,7 @@
     {
         "src": "revolution",
         "trgs": [
-            "revolution"
+            "kebengwi bachamung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26798,7 +26870,7 @@
     {
         "src": "ride",
         "trgs": [
-            "kadi"
+            "kasaui thángma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -26897,7 +26969,7 @@
     {
         "src": "risk",
         "trgs": [
-            "kirimasingsa samung"
+            "kebengmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27115,7 +27187,7 @@
     {
         "src": "rude",
         "trgs": [
-            "thamchi kutung"
+            "saknangya"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27124,7 +27196,7 @@
     {
         "src": "rug",
         "trgs": [
-            "bojagnai"
+            "lamthai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27259,7 +27331,7 @@
     {
         "src": "sage",
         "trgs": [
-            "sage"
+            "elemi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27304,7 +27376,7 @@
     {
         "src": "salary",
         "trgs": [
-            "dormai"
+            "ajimung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27937,7 +28009,7 @@
     {
         "src": "seldom",
         "trgs": [
-            "waisaphanoya"
+            "wngthaya"
         ],
         "sl": "en",
         "tl": "trp",
@@ -27973,7 +28045,7 @@
     {
         "src": "selfish",
         "trgs": [
-            "rishi twinai borok"
+            "khámaimagnang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -28414,7 +28486,10 @@
     {
         "src": "shelter",
         "trgs": [
-            "nok"
+            "nok",
+            "tongthai",
+            "katirwma"
+    
         ],
         "sl": "en",
         "tl": "trp",
@@ -28513,7 +28588,7 @@
     {
         "src": "shore",
         "trgs": [
-            "shore"
+            "rukung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29365,7 +29440,8 @@
     {
         "src": "soft",
         "trgs": [
-            "norom"
+            "norom",
+            "kwlwi"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29563,7 +29639,7 @@
     {
         "src": "sorrow",
         "trgs": [
-            "biyal"
+            "khánangmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29608,7 +29684,7 @@
     {
         "src": "soulmate",
         "trgs": [
-            "bwkha ni borok"
+            "langmani logesong"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29644,7 +29720,7 @@
     {
         "src": "source",
         "trgs": [
-            "muk"
+            "yaphang"
         ],
         "sl": "en",
         "tl": "trp",
@@ -29896,7 +29972,7 @@
     {
         "src": "spontaneous",
         "trgs": [
-            "spontaneous"
+            "sraisrai"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30031,7 +30107,7 @@
     {
         "src": "stage",
         "trgs": [
-            "stage"
+            "wngjora"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30446,7 +30522,7 @@
     {
         "src": "straight",
         "trgs": [
-            "suja"
+            "kepleng"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30599,7 +30675,7 @@
     {
         "src": "strip",
         "trgs": [
-            "pata"
+            "khukma"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30618,7 +30694,8 @@
     {
         "src": "stroke",
         "trgs": [
-            "ayukmuyuk"
+            "mihimma",
+            "swprakmung"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30647,7 +30724,7 @@
     {
         "src": "structure",
         "trgs": [
-            "goron"
+            "bokhong"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30674,7 +30751,7 @@
     {
         "src": "stubborn",
         "trgs": [
-            "mwkang kwrak borok"
+            "busthaisa"
         ],
         "sl": "en",
         "tl": "trp",
@@ -30728,7 +30805,7 @@
     {
         "src": "stunning",
         "trgs": [
-            "daksa khlairwnai"
+            "uanamasingsa"
         ],
         "sl": "en",
         "tl": "trp",
@@ -31771,7 +31848,7 @@
     {
         "src": "temperature",
         "trgs": [
-            "temperature"
+            "tungmari"
         ],
         "sl": "en",
         "tl": "trp",
@@ -33764,7 +33841,8 @@
     {
         "src": "useful",
         "trgs": [
-            "samungo thepthothok"
+            "samungo thepathothok",
+            "nangmani"
         ],
         "sl": "en",
         "tl": "trp",
